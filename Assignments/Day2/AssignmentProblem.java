@@ -1,4 +1,4 @@
-package Assignments.Day1;
+package Assignments.Day2;
 // package BigDecimal;
 
 import java.math.BigDecimal;
